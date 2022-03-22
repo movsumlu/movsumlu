@@ -1,1 +1,1 @@
-[![CodeWars Badge](https://camo.githubusercontent.com/98b1502368fc6a29233dfa9b28ebe25838a8ae8e2c6ca6bb7a49c8b54d1a9e38/68747470733a2f2f7777772e636f6465776172732e636f6d2f75736572732f657374726176697a2f6261646765732f6d6963726f)](https://www.codewars.com/users/movsumlu)
+[![CodeWars Badge](https://www.codewars.com/users/movsumlu/badges/large)](https://www.codewars.com/users/movsumlu)
