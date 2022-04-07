@@ -1,1 +1,1 @@
-[![CodeWars Badge](https://www.codewars.com/users/movsumlu/badges/large)](https://www.codewars.com/users/movsumlu){:target="_blank"}
+[![CodeWars Badge](https://www.codewars.com/users/movsumlu/badges/large)](https://www.codewars.com/users/movsumlu)
